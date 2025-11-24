@@ -1,0 +1,22 @@
+Functions
+- Function declaration
+- Function expression
+- Arrow functions
+- Return keyword
+- Parameters & arguments
+
+Arrays
+- Creating arrays
+- Accessing elements
+- Modifying elements
+- Array length
+- Looping through arrays
+- Common methods: push, pop, shift, unshiftz
+- More methods: map, filter, forEach (intro)
+
+Objects
+- Object literals
+- Key-value pairs
+- Dot vs bracket notation
+- Adding & modifying properties
+- Methods inside objects
